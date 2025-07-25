@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/R-L-Divija/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0148-sort-list](https://github.com/R-L-Divija/Leetcode/tree/master/0148-sort-list) |
 | [0189-rotate-array](https://github.com/R-L-Divija/Leetcode/tree/master/0189-rotate-array) |
 ## Divide and Conquer
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/R-L-Divija/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/R-L-Divija/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/R-L-Divija/Leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
 ## Array
 |  |
@@ -54,5 +56,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/R-L-Divija/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0198-house-robber](https://github.com/R-L-Divija/Leetcode/tree/master/0198-house-robber) |
 <!---LeetCode Topics End-->
