@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/R-L-Divija/Leetcode/tree/master/0148-sort-list) |
+| [0234-palindrome-linked-list](https://github.com/R-L-Divija/Leetcode/tree/master/0234-palindrome-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
@@ -14,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/R-L-Divija/Leetcode/tree/master/0125-valid-palindrome) |
 | [0148-sort-list](https://github.com/R-L-Divija/Leetcode/tree/master/0148-sort-list) |
 | [0189-rotate-array](https://github.com/R-L-Divija/Leetcode/tree/master/0189-rotate-array) |
+| [0234-palindrome-linked-list](https://github.com/R-L-Divija/Leetcode/tree/master/0234-palindrome-linked-list) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -60,4 +62,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/R-L-Divija/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0198-house-robber](https://github.com/R-L-Divija/Leetcode/tree/master/0198-house-robber) |
+## Stack
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/R-L-Divija/Leetcode/tree/master/0234-palindrome-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/R-L-Divija/Leetcode/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
