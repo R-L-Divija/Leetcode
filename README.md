@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/R-L-Divija/Leetcode/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/R-L-Divija/Leetcode/tree/master/0012-integer-to-roman) |
 | [0066-plus-one](https://github.com/R-L-Divija/Leetcode/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/R-L-Divija/Leetcode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/R-L-Divija/Leetcode/tree/master/0189-rotate-array) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/R-L-Divija/Leetcode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2649-count-total-number-of-colored-cells](https://github.com/R-L-Divija/Leetcode/tree/master/2649-count-total-number-of-colored-cells) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/R-L-Divija/Leetcode/tree/master/0069-sqrtx) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/R-L-Divija/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/R-L-Divija/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Counting
