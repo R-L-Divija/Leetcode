@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2265-partition-array-according-to-given-pivot](https://github.com/R-L-Divija/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/R-L-Divija/Leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/R-L-Divija/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [2679-count-distinct-numbers-on-board](https://github.com/R-L-Divija/Leetcode/tree/master/2679-count-distinct-numbers-on-board) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/R-L-Divija/Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Hash Table
 |  |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/R-L-Divija/Leetcode/tree/master/0012-integer-to-roman) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/R-L-Divija/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1813-maximum-erasure-value](https://github.com/R-L-Divija/Leetcode/tree/master/1813-maximum-erasure-value) |
+| [2679-count-distinct-numbers-on-board](https://github.com/R-L-Divija/Leetcode/tree/master/2679-count-distinct-numbers-on-board) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/R-L-Divija/Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Sliding Window
 |  |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/R-L-Divija/Leetcode/tree/master/0189-rotate-array) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/R-L-Divija/Leetcode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2649-count-total-number-of-colored-cells](https://github.com/R-L-Divija/Leetcode/tree/master/2649-count-total-number-of-colored-cells) |
+| [2679-count-distinct-numbers-on-board](https://github.com/R-L-Divija/Leetcode/tree/master/2679-count-distinct-numbers-on-board) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -107,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2265-partition-array-according-to-given-pivot](https://github.com/R-L-Divija/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/R-L-Divija/Leetcode/tree/master/2551-apply-operations-to-an-array) |
+| [2679-count-distinct-numbers-on-board](https://github.com/R-L-Divija/Leetcode/tree/master/2679-count-distinct-numbers-on-board) |
 ## Binary Search
 |  |
 | ------- |
