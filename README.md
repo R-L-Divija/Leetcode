@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/R-L-Divija/Leetcode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2383-add-two-integers](https://github.com/R-L-Divija/Leetcode/tree/master/2383-add-two-integers) |
 | [2491-smallest-even-multiple](https://github.com/R-L-Divija/Leetcode/tree/master/2491-smallest-even-multiple) |
+| [2571-find-the-pivot-integer](https://github.com/R-L-Divija/Leetcode/tree/master/2571-find-the-pivot-integer) |
 | [2649-count-total-number-of-colored-cells](https://github.com/R-L-Divija/Leetcode/tree/master/2649-count-total-number-of-colored-cells) |
 | [2679-count-distinct-numbers-on-board](https://github.com/R-L-Divija/Leetcode/tree/master/2679-count-distinct-numbers-on-board) |
 | [2715-k-items-with-the-maximum-sum](https://github.com/R-L-Divija/Leetcode/tree/master/2715-k-items-with-the-maximum-sum) |
@@ -154,4 +155,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/R-L-Divija/Leetcode/tree/master/0258-add-digits) |
 | [2491-smallest-even-multiple](https://github.com/R-L-Divija/Leetcode/tree/master/2491-smallest-even-multiple) |
+## Prefix Sum
+|  |
+| ------- |
+| [2571-find-the-pivot-integer](https://github.com/R-L-Divija/Leetcode/tree/master/2571-find-the-pivot-integer) |
 <!---LeetCode Topics End-->
