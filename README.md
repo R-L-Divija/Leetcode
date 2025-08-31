@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/R-L-Divija/Leetcode/tree/master/0125-valid-palindrome) |
 | [0148-sort-list](https://github.com/R-L-Divija/Leetcode/tree/master/0148-sort-list) |
 | [0189-rotate-array](https://github.com/R-L-Divija/Leetcode/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/R-L-Divija/Leetcode/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/R-L-Divija/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/R-L-Divija/Leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/R-L-Divija/Leetcode/tree/master/0344-reverse-string) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/R-L-Divija/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/R-L-Divija/Leetcode/tree/master/0012-integer-to-roman) |
+| [0202-happy-number](https://github.com/R-L-Divija/Leetcode/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/R-L-Divija/Leetcode/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/R-L-Divija/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1813-maximum-erasure-value](https://github.com/R-L-Divija/Leetcode/tree/master/1813-maximum-erasure-value) |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/R-L-Divija/Leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/R-L-Divija/Leetcode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/R-L-Divija/Leetcode/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/R-L-Divija/Leetcode/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/R-L-Divija/Leetcode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/R-L-Divija/Leetcode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/R-L-Divija/Leetcode/tree/master/0268-missing-number) |
