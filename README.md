@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/R-L-Divija/Leetcode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/R-L-Divija/Leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/R-L-Divija/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/R-L-Divija/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/R-L-Divija/Leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1910-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/R-L-Divija/Leetcode/tree/master/1910-check-if-binary-string-has-at-most-one-segment-of-ones) |
 ## Array
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/R-L-Divija/Leetcode/tree/master/0012-integer-to-roman) |
 | [0202-happy-number](https://github.com/R-L-Divija/Leetcode/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/R-L-Divija/Leetcode/tree/master/0268-missing-number) |
+| [0387-first-unique-character-in-a-string](https://github.com/R-L-Divija/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/R-L-Divija/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1813-maximum-erasure-value](https://github.com/R-L-Divija/Leetcode/tree/master/1813-maximum-erasure-value) |
 | [2679-count-distinct-numbers-on-board](https://github.com/R-L-Divija/Leetcode/tree/master/2679-count-distinct-numbers-on-board) |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/R-L-Divija/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/R-L-Divija/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## String Matching
 |  |
@@ -218,4 +221,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/R-L-Divija/Leetcode/tree/master/0292-nim-game) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/R-L-Divija/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
