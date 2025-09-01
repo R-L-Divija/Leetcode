@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/R-L-Divija/Leetcode/tree/master/0148-sort-list) |
+| [0190-reverse-bits](https://github.com/R-L-Divija/Leetcode/tree/master/0190-reverse-bits) |
 ## Sorting
 |  |
 | ------- |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0190-reverse-bits](https://github.com/R-L-Divija/Leetcode/tree/master/0190-reverse-bits) |
 | [0268-missing-number](https://github.com/R-L-Divija/Leetcode/tree/master/0268-missing-number) |
 | [0461-hamming-distance](https://github.com/R-L-Divija/Leetcode/tree/master/0461-hamming-distance) |
 | [0693-binary-number-with-alternating-bits](https://github.com/R-L-Divija/Leetcode/tree/master/0693-binary-number-with-alternating-bits) |
