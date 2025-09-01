@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2491-smallest-even-multiple](https://github.com/R-L-Divija/Leetcode/tree/master/2491-smallest-even-multiple) |
 | [2507-number-of-common-factors](https://github.com/R-L-Divija/Leetcode/tree/master/2507-number-of-common-factors) |
 | [2571-find-the-pivot-integer](https://github.com/R-L-Divija/Leetcode/tree/master/2571-find-the-pivot-integer) |
+| [2630-alternating-digit-sum](https://github.com/R-L-Divija/Leetcode/tree/master/2630-alternating-digit-sum) |
 | [2645-pass-the-pillow](https://github.com/R-L-Divija/Leetcode/tree/master/2645-pass-the-pillow) |
 | [2649-count-total-number-of-colored-cells](https://github.com/R-L-Divija/Leetcode/tree/master/2649-count-total-number-of-colored-cells) |
 | [2679-count-distinct-numbers-on-board](https://github.com/R-L-Divija/Leetcode/tree/master/2679-count-distinct-numbers-on-board) |
