@@ -8,7 +8,6 @@ class Solution {
             nums[i]/=10;
            }
         }
-        if(a>s)return a-s;
-        return s-a;
+        return Math.abs(s-a);
     }
 }
