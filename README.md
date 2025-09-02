@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0148-sort-list](https://github.com/R-L-Divija/Leetcode/tree/master/0148-sort-list) |
 | [0268-missing-number](https://github.com/R-L-Divija/Leetcode/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/R-L-Divija/Leetcode/tree/master/0389-find-the-difference) |
 ## Merge Sort
 |  |
 | ------- |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/R-L-Divija/Leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/R-L-Divija/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/R-L-Divija/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/R-L-Divija/Leetcode/tree/master/0389-find-the-difference) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/R-L-Divija/Leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/R-L-Divija/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1910-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/R-L-Divija/Leetcode/tree/master/1910-check-if-binary-string-has-at-most-one-segment-of-ones) |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/R-L-Divija/Leetcode/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/R-L-Divija/Leetcode/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/R-L-Divija/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/R-L-Divija/Leetcode/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/R-L-Divija/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/R-L-Divija/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1813-maximum-erasure-value](https://github.com/R-L-Divija/Leetcode/tree/master/1813-maximum-erasure-value) |
@@ -191,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0190-reverse-bits](https://github.com/R-L-Divija/Leetcode/tree/master/0190-reverse-bits) |
 | [0268-missing-number](https://github.com/R-L-Divija/Leetcode/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/R-L-Divija/Leetcode/tree/master/0389-find-the-difference) |
 | [0461-hamming-distance](https://github.com/R-L-Divija/Leetcode/tree/master/0461-hamming-distance) |
 | [0476-number-complement](https://github.com/R-L-Divija/Leetcode/tree/master/0476-number-complement) |
 | [0693-binary-number-with-alternating-bits](https://github.com/R-L-Divija/Leetcode/tree/master/0693-binary-number-with-alternating-bits) |
