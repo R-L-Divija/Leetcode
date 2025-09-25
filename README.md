@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2507-number-of-common-factors](https://github.com/R-L-Divija/Leetcode/tree/master/2507-number-of-common-factors) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/R-L-Divija/Leetcode/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2571-find-the-pivot-integer](https://github.com/R-L-Divija/Leetcode/tree/master/2571-find-the-pivot-integer) |
+| [2575-minimum-cuts-to-divide-a-circle](https://github.com/R-L-Divija/Leetcode/tree/master/2575-minimum-cuts-to-divide-a-circle) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/R-L-Divija/Leetcode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2630-alternating-digit-sum](https://github.com/R-L-Divija/Leetcode/tree/master/2630-alternating-digit-sum) |
 | [2645-pass-the-pillow](https://github.com/R-L-Divija/Leetcode/tree/master/2645-pass-the-pillow) |
@@ -267,4 +268,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/R-L-Divija/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+## Geometry
+|  |
+| ------- |
+| [2575-minimum-cuts-to-divide-a-circle](https://github.com/R-L-Divija/Leetcode/tree/master/2575-minimum-cuts-to-divide-a-circle) |
 <!---LeetCode Topics End-->
