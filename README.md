@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/R-L-Divija/Leetcode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2032-largest-odd-number-in-string](https://github.com/R-L-Divija/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2083-three-divisors](https://github.com/R-L-Divija/Leetcode/tree/master/2083-three-divisors) |
+| [2238-a-number-after-a-double-reversal](https://github.com/R-L-Divija/Leetcode/tree/master/2238-a-number-after-a-double-reversal) |
 | [2383-add-two-integers](https://github.com/R-L-Divija/Leetcode/tree/master/2383-add-two-integers) |
 | [2491-smallest-even-multiple](https://github.com/R-L-Divija/Leetcode/tree/master/2491-smallest-even-multiple) |
 | [2507-number-of-common-factors](https://github.com/R-L-Divija/Leetcode/tree/master/2507-number-of-common-factors) |
