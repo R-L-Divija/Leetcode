@@ -1,18 +1,16 @@
 class NumArray {
     ArrayList <Integer>res=new ArrayList<>();
     public NumArray(int[] nums) {
+        int s=0;
         for(int x:nums){
-            res.add(x);
+             s+=x;
+            res.add(s);
         }
     }
     
     public int sumRange(int left, int right) {
-        int[] arr=new int[res.size()];
-        int sum=0;
-        for(int i=left;i<=right;i++){
-        sum+=res.get(i);
-        }
-        return sum;
+if(left==0)return res.get(right);
+        return res.get(right)-res.get(left-1);
     }
 }
 
