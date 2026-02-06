@@ -309,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1786-count-the-number-of-consistent-strings](https://github.com/R-L-Divija/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [3246-check-if-bitwise-or-has-trailing-zeros](https://github.com/R-L-Divija/Leetcode/tree/master/3246-check-if-bitwise-or-has-trailing-zeros) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/R-L-Divija/Leetcode/tree/master/3676-smallest-number-with-all-set-bits) |
+| [3827-count-monobit-integers](https://github.com/R-L-Divija/Leetcode/tree/master/3827-count-monobit-integers) |
 ## Number Theory
 |  |
 | ------- |
@@ -331,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2083-three-divisors](https://github.com/R-L-Divija/Leetcode/tree/master/2083-three-divisors) |
 | [2507-number-of-common-factors](https://github.com/R-L-Divija/Leetcode/tree/master/2507-number-of-common-factors) |
+| [3827-count-monobit-integers](https://github.com/R-L-Divija/Leetcode/tree/master/3827-count-monobit-integers) |
 ## Memoization
 |  |
 | ------- |
