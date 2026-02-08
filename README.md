@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/R-L-Divija/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/R-L-Divija/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/R-L-Divija/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0036-valid-sudoku](https://github.com/R-L-Divija/Leetcode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/R-L-Divija/Leetcode/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/R-L-Divija/Leetcode/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/R-L-Divija/Leetcode/tree/master/0078-subsets) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/R-L-Divija/Leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/R-L-Divija/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/R-L-Divija/Leetcode/tree/master/0012-integer-to-roman) |
+| [0036-valid-sudoku](https://github.com/R-L-Divija/Leetcode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/R-L-Divija/Leetcode/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/R-L-Divija/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/R-L-Divija/Leetcode/tree/master/0142-linked-list-cycle-ii) |
@@ -399,4 +401,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/R-L-Divija/Leetcode/tree/master/0110-balanced-binary-tree) |
+## Matrix
+|  |
+| ------- |
+| [0036-valid-sudoku](https://github.com/R-L-Divija/Leetcode/tree/master/0036-valid-sudoku) |
 <!---LeetCode Topics End-->
