@@ -2,7 +2,7 @@ class Solution {
     List<List<Integer>>ans;
     List<Integer>temp;
     public void func(int index,int sum,int[] arr,int k ,int n){
-          if (sum > n || temp.size() > k) return;
+          //if (sum > n || temp.size() > k) return;
         if(index==arr.length){
             if(sum==n && temp.size()==k){
             ans.add(new ArrayList<>(temp));
