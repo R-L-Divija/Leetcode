@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/R-L-Divija/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/R-L-Divija/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0036-valid-sudoku](https://github.com/R-L-Divija/Leetcode/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/R-L-Divija/Leetcode/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/R-L-Divija/Leetcode/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/R-L-Divija/Leetcode/tree/master/0051-n-queens) |
 | [0066-plus-one](https://github.com/R-L-Divija/Leetcode/tree/master/0066-plus-one) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/R-L-Divija/Leetcode/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/R-L-Divija/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0036-valid-sudoku](https://github.com/R-L-Divija/Leetcode/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/R-L-Divija/Leetcode/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/R-L-Divija/Leetcode/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/R-L-Divija/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/R-L-Divija/Leetcode/tree/master/0142-linked-list-cycle-ii) |
@@ -385,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/R-L-Divija/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/R-L-Divija/Leetcode/tree/master/0022-generate-parentheses) |
+| [0037-sudoku-solver](https://github.com/R-L-Divija/Leetcode/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/R-L-Divija/Leetcode/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/R-L-Divija/Leetcode/tree/master/0052-n-queens-ii) |
 | [0078-subsets](https://github.com/R-L-Divija/Leetcode/tree/master/0078-subsets) |
@@ -425,5 +428,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/R-L-Divija/Leetcode/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/R-L-Divija/Leetcode/tree/master/0037-sudoku-solver) |
 | [0079-word-search](https://github.com/R-L-Divija/Leetcode/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
