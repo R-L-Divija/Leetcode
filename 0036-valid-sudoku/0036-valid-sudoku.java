@@ -1,34 +1,42 @@
 class Solution {
-    public boolean isValidSudoku(char[][] board) {
-        HashSet<Character>[] rows = new HashSet[9];
-        HashSet<Character>[] cols = new HashSet[9];
-        HashSet<Character>[] boxes = new HashSet[9];
-
-        for (int i = 0; i < 9; i++) {
-            rows[i] = new HashSet<>();
-            cols[i] = new HashSet<>();
-            boxes[i] = new HashSet<>();
+    public boolean func(int r,int c,char[][] b){
+        //check rows ooda columns;
+        for(int i=0;i<9;i++){
+            if(i==c)continue;
+            if(b[r][i]==b[r][c])return false;
+     
+    }
+    //check columns ooda rows
+         for(int i=0;i<9;i++){
+            if(i==r)continue;
+            if(b[i][c]==b[r][c])return false;
         }
-
-        for (int r = 0; r < 9; r++) {
-            for (int c = 0; c < 9; c++) {
-                if (board[r][c] == '.') {
-                    continue;
+        //box check;
+        int fr=(r/3)*3;
+        int fc=(c/3)*3;
+        for(int i=0;i<3;i++){
+            for(int j=0;j<3;j++){
+                int nr=fr+i,nc=fc+j;
+                if(nr==r &&nc==c)continue;
+                else{
+                    if(b[nr][nc]==b[r][c])return false;
                 }
-
-                char value = board[r][c];
-                int boxIndex = (r / 3) * 3 + (c / 3);
-
-                if (rows[r].contains(value) || cols[c].contains(value) || boxes[boxIndex].contains(value)) {
-                    return false;
-                }
-
-                rows[r].add(value);
-                cols[c].add(value);
-                boxes[boxIndex].add(value);
             }
         }
-
-        return true;        
+        return true;
+}
+    
+    public boolean isValidSudoku(char[][] board) {
+  boolean ans=true;;
+       for(int i=0;i<9;i++){
+        for(int j=0;j<9;j++){
+        if(board[i][j]=='.')continue;
+        else{
+            if(func(i,j,board)==false)return false;
+            
+        }
+        }
+       }
+       return true;
     }
 }
