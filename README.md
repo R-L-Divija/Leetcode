@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/R-L-Divija/Leetcode/tree/master/0389-find-the-difference) |
 | [0435-non-overlapping-intervals](https://github.com/R-L-Divija/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/R-L-Divija/Leetcode/tree/master/0455-assign-cookies) |
+| [1710-maximum-units-on-a-truck](https://github.com/R-L-Divija/Leetcode/tree/master/1710-maximum-units-on-a-truck) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/R-L-Divija/Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3321-type-of-triangle](https://github.com/R-L-Divija/Leetcode/tree/master/3321-type-of-triangle) |
 | [3634-minimum-removals-to-balance-array](https://github.com/R-L-Divija/Leetcode/tree/master/3634-minimum-removals-to-balance-array) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0992-subarrays-with-k-different-integers](https://github.com/R-L-Divija/Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/R-L-Divija/Leetcode/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/R-L-Divija/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1710-maximum-units-on-a-truck](https://github.com/R-L-Divija/Leetcode/tree/master/1710-maximum-units-on-a-truck) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/R-L-Divija/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1813-maximum-erasure-value](https://github.com/R-L-Divija/Leetcode/tree/master/1813-maximum-erasure-value) |
 | [1929-concatenation-of-array](https://github.com/R-L-Divija/Leetcode/tree/master/1929-concatenation-of-array) |
@@ -283,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/R-L-Divija/Leetcode/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/R-L-Divija/Leetcode/tree/master/0860-lemonade-change) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/R-L-Divija/Leetcode/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
+| [1710-maximum-units-on-a-truck](https://github.com/R-L-Divija/Leetcode/tree/master/1710-maximum-units-on-a-truck) |
 | [2032-largest-odd-number-in-string](https://github.com/R-L-Divija/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2715-k-items-with-the-maximum-sum](https://github.com/R-L-Divija/Leetcode/tree/master/2715-k-items-with-the-maximum-sum) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/R-L-Divija/Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
