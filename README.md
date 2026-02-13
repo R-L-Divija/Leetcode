@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/R-L-Divija/Leetcode/tree/master/0389-find-the-difference) |
 | [0435-non-overlapping-intervals](https://github.com/R-L-Divija/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/R-L-Divija/Leetcode/tree/master/0455-assign-cookies) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/R-L-Divija/Leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1710-maximum-units-on-a-truck](https://github.com/R-L-Divija/Leetcode/tree/master/1710-maximum-units-on-a-truck) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/R-L-Divija/Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3321-type-of-triangle](https://github.com/R-L-Divija/Leetcode/tree/master/3321-type-of-triangle) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0992-subarrays-with-k-different-integers](https://github.com/R-L-Divija/Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/R-L-Divija/Leetcode/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/R-L-Divija/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/R-L-Divija/Leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1710-maximum-units-on-a-truck](https://github.com/R-L-Divija/Leetcode/tree/master/1710-maximum-units-on-a-truck) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/R-L-Divija/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1813-maximum-erasure-value](https://github.com/R-L-Divija/Leetcode/tree/master/1813-maximum-erasure-value) |
@@ -220,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/R-L-Divija/Leetcode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/R-L-Divija/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/R-L-Divija/Leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/R-L-Divija/Leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/R-L-Divija/Leetcode/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 | [1642-water-bottles](https://github.com/R-L-Divija/Leetcode/tree/master/1642-water-bottles) |
 | [1806-count-of-matches-in-tournament](https://github.com/R-L-Divija/Leetcode/tree/master/1806-count-of-matches-in-tournament) |
@@ -290,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/R-L-Divija/Leetcode/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/R-L-Divija/Leetcode/tree/master/0860-lemonade-change) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/R-L-Divija/Leetcode/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/R-L-Divija/Leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1710-maximum-units-on-a-truck](https://github.com/R-L-Divija/Leetcode/tree/master/1710-maximum-units-on-a-truck) |
 | [2032-largest-odd-number-in-string](https://github.com/R-L-Divija/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2715-k-items-with-the-maximum-sum](https://github.com/R-L-Divija/Leetcode/tree/master/2715-k-items-with-the-maximum-sum) |
@@ -392,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0292-nim-game](https://github.com/R-L-Divija/Leetcode/tree/master/0292-nim-game) |
 | [1086-divisor-game](https://github.com/R-L-Divija/Leetcode/tree/master/1086-divisor-game) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/R-L-Divija/Leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 ## Queue
 |  |
 | ------- |
