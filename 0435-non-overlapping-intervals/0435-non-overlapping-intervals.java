@@ -6,15 +6,15 @@ class Solution {
      for(int i=0;i<intervals.length;i++){
         if(st.isEmpty()){
          st.push(intervals[i][1]);
-         c++;
+        
         }else{
             int t=st.peek();
             if(t<=intervals[i][0]){
                  st.push(intervals[i][1]);
-         c++;
             }
+              else c++;
         }
      }  
-     return intervals.length-c; 
+     return c; 
     }
 }
