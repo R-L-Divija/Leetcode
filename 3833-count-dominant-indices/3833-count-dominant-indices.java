@@ -10,7 +10,8 @@ class Solution {
          sum-=nums[i];
          int n=nums.length-i-1;
         if(n>0){
-         if((long)nums[i]*n>sum)c++;
+        double avg=1.0*sum/n;  
+         if(nums[i]>avg)c++;
         }
         }
         return c;
