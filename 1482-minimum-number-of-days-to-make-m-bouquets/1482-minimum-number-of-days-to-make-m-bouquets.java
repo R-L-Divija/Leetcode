@@ -20,7 +20,6 @@ class Solution {
         int l=1;
         int h=0;
         for(int x:d){
-            
             h=Math.max(h,x);
         }
         while(l<h){
