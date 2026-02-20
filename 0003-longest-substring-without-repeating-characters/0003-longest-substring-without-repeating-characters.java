@@ -3,17 +3,17 @@ class Solution {
         int l=0;
         int r=0;
         int ans=0;
-        Set<Character>set=new LinkedHashSet<>();
+        HashSet<Character>set=new HashSet<>();
         while(r<s.length()){
-            char ch=s.charAt(r);
-            while(set.contains(ch)){
+             char ch=s.charAt(r);
+             while(set.contains(ch)){
                 set.remove(s.charAt(l));
                 l++;
-            }
-            set.add(ch);
+             }
+            set.add(ch); 
             ans=Math.max(ans,r-l+1);
             r++;
         }
-        return ans;
+return ans;
     }
 }
