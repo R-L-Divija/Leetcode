@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/R-L-Divija/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/R-L-Divija/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/R-L-Divija/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/R-L-Divija/Leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/R-L-Divija/Leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1710-maximum-units-on-a-truck](https://github.com/R-L-Divija/Leetcode/tree/master/1710-maximum-units-on-a-truck) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/R-L-Divija/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -359,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/R-L-Divija/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1004-max-consecutive-ones-iii](https://github.com/R-L-Divija/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/R-L-Divija/Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/R-L-Divija/Leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/R-L-Divija/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/R-L-Divija/Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Counting
