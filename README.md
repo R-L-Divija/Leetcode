@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/R-L-Divija/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/R-L-Divija/Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/R-L-Divija/Leetcode/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
+| [1248-count-number-of-nice-subarrays](https://github.com/R-L-Divija/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/R-L-Divija/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/R-L-Divija/Leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1710-maximum-units-on-a-truck](https://github.com/R-L-Divija/Leetcode/tree/master/1710-maximum-units-on-a-truck) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/R-L-Divija/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0904-fruit-into-baskets](https://github.com/R-L-Divija/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0992-subarrays-with-k-different-integers](https://github.com/R-L-Divija/Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
+| [1248-count-number-of-nice-subarrays](https://github.com/R-L-Divija/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/R-L-Divija/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1813-maximum-erasure-value](https://github.com/R-L-Divija/Leetcode/tree/master/1813-maximum-erasure-value) |
 | [2679-count-distinct-numbers-on-board](https://github.com/R-L-Divija/Leetcode/tree/master/2679-count-distinct-numbers-on-board) |
@@ -211,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/R-L-Divija/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0992-subarrays-with-k-different-integers](https://github.com/R-L-Divija/Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/R-L-Divija/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/R-L-Divija/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1813-maximum-erasure-value](https://github.com/R-L-Divija/Leetcode/tree/master/1813-maximum-erasure-value) |
 | [3634-minimum-removals-to-balance-array](https://github.com/R-L-Divija/Leetcode/tree/master/3634-minimum-removals-to-balance-array) |
 ## Math
@@ -239,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/R-L-Divija/Leetcode/tree/master/1013-fibonacci-number) |
 | [1086-divisor-game](https://github.com/R-L-Divija/Leetcode/tree/master/1086-divisor-game) |
 | [1236-n-th-tribonacci-number](https://github.com/R-L-Divija/Leetcode/tree/master/1236-n-th-tribonacci-number) |
+| [1248-count-number-of-nice-subarrays](https://github.com/R-L-Divija/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/R-L-Divija/Leetcode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/R-L-Divija/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/R-L-Divija/Leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
@@ -400,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/R-L-Divija/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/R-L-Divija/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/R-L-Divija/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/R-L-Divija/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [2571-find-the-pivot-integer](https://github.com/R-L-Divija/Leetcode/tree/master/2571-find-the-pivot-integer) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/R-L-Divija/Leetcode/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 ## Enumeration
