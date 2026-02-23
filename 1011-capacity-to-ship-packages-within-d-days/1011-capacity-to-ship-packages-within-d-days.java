@@ -1,32 +1,30 @@
 class Solution {
-    public boolean func(int[] a,int d,int m){
+    public boolean func(int[] arr,int days,int m){
+        int d=1;
         int l=0;
-        int day=1;
-        for(int x:a){
+        for(int x:arr){
             if(l+x<=m){
                 l+=x;
             }else{
-                day++;
+                d++;
                 l=x;
             }
         }
-        return day<=d;
+        return d<=days;
     }
-    public int shipWithinDays(int[] weights, int days) {
+    public int shipWithinDays(int[] w, int days) {
         int l=0;
         int h=0;
-        for(int x:weights){
+        for(int x:w){
             l=Math.max(l,x);
             h+=x;
         }
         while(l<h){
             int m=l+(h-l)/2;
-            if(func(weights,days,m)){
+            if(func(w,days,m)){
                 h=m;
-            }else{
-                l=m+1;
-            }
+            }else l=m+1;
         }
-return l;
+        return l;
     }
 }
