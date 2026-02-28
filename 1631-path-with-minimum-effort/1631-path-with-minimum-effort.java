@@ -14,7 +14,7 @@ class Solution {
             int eff=t[0];
             int r=t[1];
             int c=t[2];
-            if(eff>dis[r][c])continue;
+           // if(eff>dis[r][c])continue;
             if(r==n-1 &&c==m-1)return eff;
             for(int k=0;k<4;k++){
                 int nr=r+dir[k][0];
