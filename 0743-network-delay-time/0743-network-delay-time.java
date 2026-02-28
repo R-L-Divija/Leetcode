@@ -31,9 +31,10 @@ class Solution {
         }
         int max=Integer.MIN_VALUE;
         for(int i=1;i<=V;i++){
+            if(dis[i]==Integer.MAX_VALUE)return -1;
             max=Math.max(max,dis[i]);
         }
-        if(max==Integer.MAX_VALUE)return -1;
+       
         return max;
     }
 }
