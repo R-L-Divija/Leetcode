@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/R-L-Divija/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0735-asteroid-collision](https://github.com/R-L-Divija/Leetcode/tree/master/0735-asteroid-collision) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/R-L-Divija/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0746-min-cost-climbing-stairs](https://github.com/R-L-Divija/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0860-lemonade-change](https://github.com/R-L-Divija/Leetcode/tree/master/0860-lemonade-change) |
 | [0904-fruit-into-baskets](https://github.com/R-L-Divija/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0992-subarrays-with-k-different-integers](https://github.com/R-L-Divija/Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
@@ -309,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/R-L-Divija/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/R-L-Divija/Leetcode/tree/master/0198-house-robber) |
 | [0435-non-overlapping-intervals](https://github.com/R-L-Divija/Leetcode/tree/master/0435-non-overlapping-intervals) |
+| [0746-min-cost-climbing-stairs](https://github.com/R-L-Divija/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/R-L-Divija/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1013-fibonacci-number](https://github.com/R-L-Divija/Leetcode/tree/master/1013-fibonacci-number) |
 | [1086-divisor-game](https://github.com/R-L-Divija/Leetcode/tree/master/1086-divisor-game) |
