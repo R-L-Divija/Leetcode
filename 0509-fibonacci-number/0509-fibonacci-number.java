@@ -1,7 +1,12 @@
 class Solution {
-    public int fib(int n) {
+
+    int func(int n){
+        //base
         if(n<=1)return n;
         //logic
-        return fib(n-1)+fib(n-2);
+        return func(n-1)+func(n-2);
+    }
+    public int fib(int n) {
+     return func(n);
     }
 }
