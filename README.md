@@ -242,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/R-L-Divija/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/R-L-Divija/Leetcode/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/R-L-Divija/Leetcode/tree/master/0012-integer-to-roman) |
+| [0062-unique-paths](https://github.com/R-L-Divija/Leetcode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/R-L-Divija/Leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/R-L-Divija/Leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/R-L-Divija/Leetcode/tree/master/0069-sqrtx) |
@@ -303,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/R-L-Divija/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/R-L-Divija/Leetcode/tree/master/0022-generate-parentheses) |
 | [0055-jump-game](https://github.com/R-L-Divija/Leetcode/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/R-L-Divija/Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/R-L-Divija/Leetcode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/R-L-Divija/Leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/R-L-Divija/Leetcode/tree/master/0119-pascals-triangle-ii) |
@@ -633,4 +635,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0743-network-delay-time](https://github.com/R-L-Divija/Leetcode/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/R-L-Divija/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/R-L-Divija/Leetcode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
