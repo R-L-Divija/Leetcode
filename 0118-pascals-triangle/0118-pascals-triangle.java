@@ -1,24 +1,17 @@
 class Solution {
-    public List<List<Integer>> generate(int numRows) {
-             List<List<Integer>> triangle = new ArrayList<>();
-
-        for (int i = 0; i < numRows; i++) {
-            List<Integer> row = new ArrayList<>();
-            
-            for (int j = 0; j <= i; j++) {
-                // first and last elements of each row are 1
-                if (j == 0 || j == i) {
-                    row.add(1);
-                } else {
-                    // sum of the two elements above
-                    int val = triangle.get(i - 1).get(j - 1) + triangle.get(i - 1).get(j);
-                    row.add(val);
+    public List<List<Integer>> generate(int n) {
+        List<List<Integer>>ans=new ArrayList<>();
+        for(int i=0;i<n;i++){
+            List<Integer>temp=new ArrayList<>();
+            for(int j=0;j<=i;j++){
+                if(j==0||j==i)temp.add(1);
+                else{
+                    int val=ans.get(i-1).get(j-1)+ans.get(i-1).get(j);
+                    temp.add(val);
                 }
             }
-            
-            triangle.add(row);
+            ans.add(temp);
         }
-        return triangle;
+        return ans;
     }
 }
-    
