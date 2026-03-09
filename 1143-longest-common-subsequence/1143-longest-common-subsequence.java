@@ -7,7 +7,9 @@ class Solution {
         }else{
             int icheck=func(i,j+1,s1,s2,dp);
             int jcheck=func(i+1,j,s1,s2,dp);
-            return dp[i][j]=Math.max(icheck,jcheck);
+            int ijcheck=func(i+1,j+1,s1,s2,dp);
+
+            return dp[i][j]=Math.max(ijcheck,Math.max(icheck,jcheck));
         }
     }
     public int longestCommonSubsequence(String s1, String s2) {
