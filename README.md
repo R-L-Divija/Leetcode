@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/R-L-Divija/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/R-L-Divija/Leetcode/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/R-L-Divija/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0044-wildcard-matching](https://github.com/R-L-Divija/Leetcode/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/R-L-Divija/Leetcode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/R-L-Divija/Leetcode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/R-L-Divija/Leetcode/tree/master/0067-add-binary) |
@@ -314,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/R-L-Divija/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/R-L-Divija/Leetcode/tree/master/0022-generate-parentheses) |
+| [0044-wildcard-matching](https://github.com/R-L-Divija/Leetcode/tree/master/0044-wildcard-matching) |
 | [0055-jump-game](https://github.com/R-L-Divija/Leetcode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/R-L-Divija/Leetcode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/R-L-Divija/Leetcode/tree/master/0063-unique-paths-ii) |
@@ -353,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/R-L-Divija/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
+| [0044-wildcard-matching](https://github.com/R-L-Divija/Leetcode/tree/master/0044-wildcard-matching) |
 | [0206-reverse-linked-list](https://github.com/R-L-Divija/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/R-L-Divija/Leetcode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/R-L-Divija/Leetcode/tree/master/0234-palindrome-linked-list) |
@@ -364,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/R-L-Divija/Leetcode/tree/master/0044-wildcard-matching) |
 | [0055-jump-game](https://github.com/R-L-Divija/Leetcode/tree/master/0055-jump-game) |
 | [0179-largest-number](https://github.com/R-L-Divija/Leetcode/tree/master/0179-largest-number) |
 | [0435-non-overlapping-intervals](https://github.com/R-L-Divija/Leetcode/tree/master/0435-non-overlapping-intervals) |
