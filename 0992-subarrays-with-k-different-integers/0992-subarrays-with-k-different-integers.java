@@ -1,18 +1,18 @@
 class Solution {
-    public int count(int[] nums,int k){
+    public int count(int []a,int k){
         int l=0;
         int r=0;
         int c=0;
         HashMap<Integer,Integer>map=new HashMap<>();
-        while(r<nums.length){
-            map.put(nums[r],map.getOrDefault(nums[r],0)+1);
+        while(r<a.length){
+            map.put(a[r],map.getOrDefault(a[r],0)+1);
             while(map.size()>k){
-                map.put(nums[l],map.get(nums[l])-1);
-                if(map.get(nums[l])==0)map.remove(nums[l]);
+                map.put(a[l],map.get(a[l])-1);
+                if(map.get(a[l])==0)map.remove(a[l]);
                 l++;
             }
-c+=r-l+1;
-r++;
+            c+=r-l+1;
+            r++;
         }
         return c;
     }
