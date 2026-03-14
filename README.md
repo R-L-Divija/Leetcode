@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/R-L-Divija/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/R-L-Divija/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/R-L-Divija/Leetcode/tree/master/0455-assign-cookies) |
+| [0494-target-sum](https://github.com/R-L-Divija/Leetcode/tree/master/0494-target-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/R-L-Divija/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/R-L-Divija/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0735-asteroid-collision](https://github.com/R-L-Divija/Leetcode/tree/master/0735-asteroid-collision) |
@@ -340,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/R-L-Divija/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/R-L-Divija/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/R-L-Divija/Leetcode/tree/master/0435-non-overlapping-intervals) |
+| [0494-target-sum](https://github.com/R-L-Divija/Leetcode/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/R-L-Divija/Leetcode/tree/master/0509-fibonacci-number) |
 | [0583-delete-operation-for-two-strings](https://github.com/R-L-Divija/Leetcode/tree/master/0583-delete-operation-for-two-strings) |
 | [0746-min-cost-climbing-stairs](https://github.com/R-L-Divija/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
@@ -522,6 +524,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/R-L-Divija/Leetcode/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/R-L-Divija/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/R-L-Divija/Leetcode/tree/master/0216-combination-sum-iii) |
+| [0494-target-sum](https://github.com/R-L-Divija/Leetcode/tree/master/0494-target-sum) |
 ## Design
 |  |
 | ------- |
