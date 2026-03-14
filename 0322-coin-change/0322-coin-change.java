@@ -1,5 +1,4 @@
 class Solution {
-
     public int coinChange(int[] a, int t) {
       int n=a.length;
       if(t==0)return 0;
@@ -28,7 +27,6 @@ class Solution {
         }
       }
       if(dp[0][t]>=Integer.MAX_VALUE)return -1;
-      
       return dp[0][t];
     }
 }
