@@ -10,7 +10,5 @@ class Solution {
         }
         if(org==rev)return true;
         return false;
-        /*boolean isP= x>=0&&Integer.toString(x).equals(new StringBuilder(Integer.toString(x)).reverse().toString());
-        return isP;*/
     }
 }
