@@ -215,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/R-L-Divija/Leetcode/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/R-L-Divija/Leetcode/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3634-minimum-removals-to-balance-array](https://github.com/R-L-Divija/Leetcode/tree/master/3634-minimum-removals-to-balance-array) |
+| [3689-maximum-total-subarray-value-i](https://github.com/R-L-Divija/Leetcode/tree/master/3689-maximum-total-subarray-value-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/R-L-Divija/Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Hash Table
 |  |
@@ -413,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2032-largest-odd-number-in-string](https://github.com/R-L-Divija/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/R-L-Divija/Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2715-k-items-with-the-maximum-sum](https://github.com/R-L-Divija/Leetcode/tree/master/2715-k-items-with-the-maximum-sum) |
+| [3689-maximum-total-subarray-value-i](https://github.com/R-L-Divija/Leetcode/tree/master/3689-maximum-total-subarray-value-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/R-L-Divija/Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Simulation
 |  |
