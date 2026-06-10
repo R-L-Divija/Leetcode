@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/R-L-Divija/Leetcode/tree/master/0268-missing-number) |
 | [0295-find-median-from-data-stream](https://github.com/R-L-Divija/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0368-largest-divisible-subset](https://github.com/R-L-Divija/Leetcode/tree/master/0368-largest-divisible-subset) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/R-L-Divija/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0389-find-the-difference](https://github.com/R-L-Divija/Leetcode/tree/master/0389-find-the-difference) |
 | [0435-non-overlapping-intervals](https://github.com/R-L-Divija/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/R-L-Divija/Leetcode/tree/master/0455-assign-cookies) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/R-L-Divija/Leetcode/tree/master/0322-coin-change) |
 | [0368-largest-divisible-subset](https://github.com/R-L-Divija/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/R-L-Divija/Leetcode/tree/master/0373-find-k-pairs-with-smallest-sums) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/R-L-Divija/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0416-partition-equal-subset-sum](https://github.com/R-L-Divija/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/R-L-Divija/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/R-L-Divija/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -444,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/R-L-Divija/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/R-L-Divija/Leetcode/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/R-L-Divija/Leetcode/tree/master/0300-longest-increasing-subsequence) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/R-L-Divija/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0713-subarray-product-less-than-k](https://github.com/R-L-Divija/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/R-L-Divija/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1004-max-consecutive-ones-iii](https://github.com/R-L-Divija/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
@@ -572,6 +575,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/R-L-Divija/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0295-find-median-from-data-stream](https://github.com/R-L-Divija/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/R-L-Divija/Leetcode/tree/master/0373-find-k-pairs-with-smallest-sums) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/R-L-Divija/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0743-network-delay-time](https://github.com/R-L-Divija/Leetcode/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/R-L-Divija/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1631-path-with-minimum-effort](https://github.com/R-L-Divija/Leetcode/tree/master/1631-path-with-minimum-effort) |
@@ -651,6 +655,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/R-L-Divija/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/R-L-Divija/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/R-L-Divija/Leetcode/tree/master/0079-word-search) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/R-L-Divija/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0931-minimum-falling-path-sum](https://github.com/R-L-Divija/Leetcode/tree/master/0931-minimum-falling-path-sum) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/R-L-Divija/Leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/R-L-Divija/Leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
