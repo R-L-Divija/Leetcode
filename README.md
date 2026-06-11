@@ -337,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2955-account-balance-after-rounded-purchase](https://github.com/R-L-Divija/Leetcode/tree/master/2955-account-balance-after-rounded-purchase) |
 | [3321-type-of-triangle](https://github.com/R-L-Divija/Leetcode/tree/master/3321-type-of-triangle) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/R-L-Divija/Leetcode/tree/master/3515-find-if-digit-game-can-be-won) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/R-L-Divija/Leetcode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/R-L-Divija/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/R-L-Divija/Leetcode/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3830-find-closest-person](https://github.com/R-L-Divija/Leetcode/tree/master/3830-find-closest-person) |
@@ -606,6 +607,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0563-binary-tree-tilt](https://github.com/R-L-Divija/Leetcode/tree/master/0563-binary-tree-tilt) |
 | [0572-subtree-of-another-tree](https://github.com/R-L-Divija/Leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/R-L-Divija/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/R-L-Divija/Leetcode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -630,6 +632,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/R-L-Divija/Leetcode/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/R-L-Divija/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1631-path-with-minimum-effort](https://github.com/R-L-Divija/Leetcode/tree/master/1631-path-with-minimum-effort) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/R-L-Divija/Leetcode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 ## Binary Tree
 |  |
 | ------- |
