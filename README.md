@@ -204,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1582-special-positions-in-a-binary-matrix](https://github.com/R-L-Divija/Leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/R-L-Divija/Leetcode/tree/master/1631-path-with-minimum-effort) |
 | [1710-maximum-units-on-a-truck](https://github.com/R-L-Divija/Leetcode/tree/master/1710-maximum-units-on-a-truck) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/R-L-Divija/Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/R-L-Divija/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1813-maximum-erasure-value](https://github.com/R-L-Divija/Leetcode/tree/master/1813-maximum-erasure-value) |
 | [1833-maximum-ice-cream-bars](https://github.com/R-L-Divija/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
