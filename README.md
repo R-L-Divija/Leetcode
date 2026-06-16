@@ -175,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/R-L-Divija/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/R-L-Divija/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/R-L-Divija/Leetcode/tree/master/0455-assign-cookies) |
+| [0485-max-consecutive-ones](https://github.com/R-L-Divija/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0494-target-sum](https://github.com/R-L-Divija/Leetcode/tree/master/0494-target-sum) |
 | [0523-continuous-subarray-sum](https://github.com/R-L-Divija/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/R-L-Divija/Leetcode/tree/master/0525-contiguous-array) |
