@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/R-L-Divija/Leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/R-L-Divija/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/R-L-Divija/Leetcode/tree/master/0120-triangle) |
+| [0136-single-number](https://github.com/R-L-Divija/Leetcode/tree/master/0136-single-number) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/R-L-Divija/Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/R-L-Divija/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0179-largest-number](https://github.com/R-L-Divija/Leetcode/tree/master/0179-largest-number) |
@@ -500,6 +501,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/R-L-Divija/Leetcode/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/R-L-Divija/Leetcode/tree/master/0078-subsets) |
+| [0136-single-number](https://github.com/R-L-Divija/Leetcode/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/R-L-Divija/Leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/R-L-Divija/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/R-L-Divija/Leetcode/tree/master/0231-power-of-two) |
