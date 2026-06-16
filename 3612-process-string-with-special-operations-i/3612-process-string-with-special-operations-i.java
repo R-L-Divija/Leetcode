@@ -9,7 +9,7 @@ class Solution {
         }
         else if(x=='#'){
              if(s1.length()>0){
-                //char l=s1.charAt(s1.length()-1);
+              
                 s1.append(s1);
             }
         }
