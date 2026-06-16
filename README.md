@@ -213,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/R-L-Divija/Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/R-L-Divija/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/R-L-Divija/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2433-find-the-original-array-of-prefix-xor](https://github.com/R-L-Divija/Leetcode/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/R-L-Divija/Leetcode/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2551-apply-operations-to-an-array](https://github.com/R-L-Divija/Leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/R-L-Divija/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -510,6 +511,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/R-L-Divija/Leetcode/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/R-L-Divija/Leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/R-L-Divija/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
+| [2433-find-the-original-array-of-prefix-xor](https://github.com/R-L-Divija/Leetcode/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [3246-check-if-bitwise-or-has-trailing-zeros](https://github.com/R-L-Divija/Leetcode/tree/master/3246-check-if-bitwise-or-has-trailing-zeros) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/R-L-Divija/Leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/R-L-Divija/Leetcode/tree/master/3676-smallest-number-with-all-set-bits) |
