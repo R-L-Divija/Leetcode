@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1910-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/R-L-Divija/Leetcode/tree/master/1910-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/R-L-Divija/Leetcode/tree/master/1920-determine-color-of-a-chessboard-square) |
 | [2032-largest-odd-number-in-string](https://github.com/R-L-Divija/Leetcode/tree/master/2032-largest-odd-number-in-string) |
+| [3612-process-string-with-special-operations-i](https://github.com/R-L-Divija/Leetcode/tree/master/3612-process-string-with-special-operations-i) |
 | [3838-weighted-word-mapping](https://github.com/R-L-Divija/Leetcode/tree/master/3838-weighted-word-mapping) |
 ## Array
 |  |
@@ -454,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2645-pass-the-pillow](https://github.com/R-L-Divija/Leetcode/tree/master/2645-pass-the-pillow) |
 | [2679-count-distinct-numbers-on-board](https://github.com/R-L-Divija/Leetcode/tree/master/2679-count-distinct-numbers-on-board) |
 | [2857-total-distance-traveled](https://github.com/R-L-Divija/Leetcode/tree/master/2857-total-distance-traveled) |
+| [3612-process-string-with-special-operations-i](https://github.com/R-L-Divija/Leetcode/tree/master/3612-process-string-with-special-operations-i) |
 | [3838-weighted-word-mapping](https://github.com/R-L-Divija/Leetcode/tree/master/3838-weighted-word-mapping) |
 ## Binary Search
 |  |
