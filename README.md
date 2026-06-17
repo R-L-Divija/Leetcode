@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-determine-color-of-a-chessboard-square](https://github.com/R-L-Divija/Leetcode/tree/master/1920-determine-color-of-a-chessboard-square) |
 | [2032-largest-odd-number-in-string](https://github.com/R-L-Divija/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [3612-process-string-with-special-operations-i](https://github.com/R-L-Divija/Leetcode/tree/master/3612-process-string-with-special-operations-i) |
+| [3614-process-string-with-special-operations-ii](https://github.com/R-L-Divija/Leetcode/tree/master/3614-process-string-with-special-operations-ii) |
 | [3838-weighted-word-mapping](https://github.com/R-L-Divija/Leetcode/tree/master/3838-weighted-word-mapping) |
 ## Array
 |  |
@@ -484,6 +485,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2679-count-distinct-numbers-on-board](https://github.com/R-L-Divija/Leetcode/tree/master/2679-count-distinct-numbers-on-board) |
 | [2857-total-distance-traveled](https://github.com/R-L-Divija/Leetcode/tree/master/2857-total-distance-traveled) |
 | [3612-process-string-with-special-operations-i](https://github.com/R-L-Divija/Leetcode/tree/master/3612-process-string-with-special-operations-i) |
+| [3614-process-string-with-special-operations-ii](https://github.com/R-L-Divija/Leetcode/tree/master/3614-process-string-with-special-operations-ii) |
 | [3838-weighted-word-mapping](https://github.com/R-L-Divija/Leetcode/tree/master/3838-weighted-word-mapping) |
 ## Binary Search
 |  |
