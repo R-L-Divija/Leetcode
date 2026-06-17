@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/R-L-Divija/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/R-L-Divija/Leetcode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/R-L-Divija/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/R-L-Divija/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/R-L-Divija/Leetcode/tree/master/0136-single-number) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/R-L-Divija/Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/R-L-Divija/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/R-L-Divija/Leetcode/tree/master/0049-group-anagrams) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/R-L-Divija/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/R-L-Divija/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0128-longest-consecutive-sequence](https://github.com/R-L-Divija/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/R-L-Divija/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/R-L-Divija/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/R-L-Divija/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
@@ -751,6 +753,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/R-L-Divija/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0547-number-of-provinces](https://github.com/R-L-Divija/Leetcode/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/R-L-Divija/Leetcode/tree/master/0785-is-graph-bipartite) |
 | [1631-path-with-minimum-effort](https://github.com/R-L-Divija/Leetcode/tree/master/1631-path-with-minimum-effort) |
