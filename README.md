@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/R-L-Divija/Leetcode/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/R-L-Divija/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/R-L-Divija/Leetcode/tree/master/0031-next-permutation) |
+| [0035-search-insert-position](https://github.com/R-L-Divija/Leetcode/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/R-L-Divija/Leetcode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/R-L-Divija/Leetcode/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/R-L-Divija/Leetcode/tree/master/0048-rotate-image) |
@@ -505,6 +506,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/R-L-Divija/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0035-search-insert-position](https://github.com/R-L-Divija/Leetcode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/R-L-Divija/Leetcode/tree/master/0069-sqrtx) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/R-L-Divija/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/R-L-Divija/Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
