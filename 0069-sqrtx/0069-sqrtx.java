@@ -1,21 +1,18 @@
 class Solution {
     public int mySqrt(int x) {
-        if (x == 0 || x == 1) return x;
-        
-        int left = 0, right = x, ans = 0;
-        while (left <= right) {
-            long mid = left + (right - left) / 2; // avoid overflow
-            long sq = mid * mid;
-            
-            if (sq == x) {
-                return (int) mid;  // perfect square
-            } else if (sq < x) {
-                ans = (int) mid;   // store possible answer
-                left = (int) mid + 1;
-            } else {
-                right = (int) mid - 1;
-            }
+        if(x<=1)return x;
+        int l=1;
+        int r=x;
+       
+        while(l<=r){
+           int  m=l+(r-l)/2;
+            long s1=(long)m*m;
+
+            if(s1==x)return m;
+            else if(s1<x)l=m+1;
+            else r=m-1;
         }
-        return ans;
+        return r;
+
     }
 }
