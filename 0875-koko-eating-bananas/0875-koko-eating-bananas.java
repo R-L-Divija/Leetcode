@@ -1,7 +1,7 @@
 class Solution {
-    boolean func(int[] a,int h,int m){
+    public boolean func(int p[],int h,int m){
         long t=0;
-        for(int x:a){
+        for(int x:p){
             t+=(x+m-1)/m;
         }
         return t<=h;
@@ -9,18 +9,17 @@ class Solution {
     public int minEatingSpeed(int[] piles, int h) {
         int l=1;
         int r=0;
-        int a=0;
         for(int x:piles){
-          r=Math.max(r,x);
+            r=Math.max(r,x);
         }
+        int ans=0;
         while(l<=r){
-            int mid=(l+r)/2;
-            if(func(piles,h,mid)){
-                a=mid;
-                r=mid-1;
-            }else 
-            l=mid+1;
+            int m=l+(r-l)/2;
+            if(func(piles,h,m)){
+                ans=m;
+                r=m-1;
+            }else l=m+1;
         }
-        return a;
+        return ans;
     }
 }
