@@ -1,35 +1,36 @@
 class Solution {
-    public boolean func(int[] d,int m,int k,int c){
-        int b=0;
-        int cou=0;
-        for(int x:d){
-            if(x<=c){
-                cou++;
-                if(cou==k){
-                    b++;
-                 cou=0;
-                }
-            }else{
-                cou=0;
+    public boolean func(int a[],int m,int k,int mid){
+        int t=0;
+        int c=0;
+
+        for(int x:a){
+            if(x<=mid){
+                c++;
+            if(c==k){
+                t++;
+                c=0;
+
             }
-        }
-        return b>=m;
+        }else c=0;
+       
+    } return t>=m;
     }
-    public int minDays(int[] d, int m, int k) {
-        if((long)m*k>d.length)return -1;
-        int l=1;
-        int h=0;
-        for(int x:d){
-            h=Math.max(h,x);
+    public int minDays(int[] a, int m, int k) {
+        if((long)m*k>a.length)return -1;
+        int l=0;
+        int r=0;
+        int ans=0;
+        for(int x:a){
+          r=Math.max(x,r);
         }
-        while(l<h){
-            int mid=l+(h-l)/2;
-            if(func(d,m,k,mid)){
-                h=mid;
-            }else{
-                l=mid+1;
-            }
+        while(l<=r){
+
+            int mid=l+(r-l)/2;
+            if(func(a,m,k,mid)){
+                ans=mid;
+                r=mid-1;
+            }else l=mid+1;
         }
-        return l;
+        return ans;
     }
 }
