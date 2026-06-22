@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/R-L-Divija/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0583-delete-operation-for-two-strings](https://github.com/R-L-Divija/Leetcode/tree/master/0583-delete-operation-for-two-strings) |
 | [1143-longest-common-subsequence](https://github.com/R-L-Divija/Leetcode/tree/master/1143-longest-common-subsequence) |
+| [1189-maximum-number-of-balloons](https://github.com/R-L-Divija/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/R-L-Divija/Leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/R-L-Divija/Leetcode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/R-L-Divija/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -304,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/R-L-Divija/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/R-L-Divija/Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0992-subarrays-with-k-different-integers](https://github.com/R-L-Divija/Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
+| [1189-maximum-number-of-balloons](https://github.com/R-L-Divija/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1248-count-number-of-nice-subarrays](https://github.com/R-L-Divija/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/R-L-Divija/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/R-L-Divija/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -544,6 +546,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/R-L-Divija/Leetcode/tree/master/0229-majority-element-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/R-L-Divija/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0992-subarrays-with-k-different-integers](https://github.com/R-L-Divija/Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
+| [1189-maximum-number-of-balloons](https://github.com/R-L-Divija/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1512-number-of-good-pairs](https://github.com/R-L-Divija/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/R-L-Divija/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/R-L-Divija/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
