@@ -9,17 +9,18 @@ class Solution {
     public int minEatingSpeed(int[] piles, int h) {
         int l=1;
         int r=0;
+        int a=0;
         for(int x:piles){
           r=Math.max(r,x);
         }
-        while(l<r){
+        while(l<=r){
             int mid=(l+r)/2;
             if(func(piles,h,mid)){
-                
-                r=mid;
+                a=mid;
+                r=mid-1;
             }else 
             l=mid+1;
         }
-        return l;
+        return a;
     }
 }
