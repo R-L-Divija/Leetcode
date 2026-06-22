@@ -1,8 +1,4 @@
-
-    
-  
-      
-      class Solution {
+class Solution {
     
     public int maxNumberOfBalloons(String text) {
        String s="balloon";
@@ -22,12 +18,10 @@
        int x5=map.get('n');
        
     
-       if(x1>=1 && x2>=1 && x3>=1 && x4>=1 && x5>=1){
+    //    if(x1>=1 && x2>=1 && x3>=1 && x4>=1 && x5>=1){
         return Math.min(x1,Math.min(x2,Math.min(x3,Math.min(x4,x5))));
-       }
-     
-
-       return 0; 
+    //    }
+    //    return 0; 
 
     }
 }
