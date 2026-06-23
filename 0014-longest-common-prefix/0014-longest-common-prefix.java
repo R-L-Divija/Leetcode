@@ -3,12 +3,12 @@ class Solution {
         Arrays.sort(strs);
         String p1=strs[0];
         String p2=strs[strs.length-1];
-        int n=Math.min(p1.length(),p2.length());
-        StringBuilder sb=new StringBuilder();
+        StringBuilder ans=new StringBuilder();
+        int n =Math.min(p1.length(),p2.length());
         for(int i=0;i<n;i++){
-            if(p1.charAt(i)==p2.charAt(i))sb.append(p1.charAt(i));
+            if(p1.charAt(i)==p2.charAt(i))ans.append(p1.charAt(i));
             else break;
         }
-        return sb.toString();
+        return ans.toString();
     }
 }
