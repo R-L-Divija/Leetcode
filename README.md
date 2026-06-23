@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/R-L-Divija/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/R-L-Divija/Leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/R-L-Divija/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1903-largest-odd-number-in-string](https://github.com/R-L-Divija/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [1910-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/R-L-Divija/Leetcode/tree/master/1910-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/R-L-Divija/Leetcode/tree/master/1920-determine-color-of-a-chessboard-square) |
 | [2032-largest-odd-number-in-string](https://github.com/R-L-Divija/Leetcode/tree/master/2032-largest-odd-number-in-string) |
@@ -383,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1642-water-bottles](https://github.com/R-L-Divija/Leetcode/tree/master/1642-water-bottles) |
 | [1806-count-of-matches-in-tournament](https://github.com/R-L-Divija/Leetcode/tree/master/1806-count-of-matches-in-tournament) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/R-L-Divija/Leetcode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
+| [1903-largest-odd-number-in-string](https://github.com/R-L-Divija/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/R-L-Divija/Leetcode/tree/master/1920-determine-color-of-a-chessboard-square) |
 | [2032-largest-odd-number-in-string](https://github.com/R-L-Divija/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2083-three-divisors](https://github.com/R-L-Divija/Leetcode/tree/master/2083-three-divisors) |
@@ -492,6 +494,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/R-L-Divija/Leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1710-maximum-units-on-a-truck](https://github.com/R-L-Divija/Leetcode/tree/master/1710-maximum-units-on-a-truck) |
 | [1833-maximum-ice-cream-bars](https://github.com/R-L-Divija/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
+| [1903-largest-odd-number-in-string](https://github.com/R-L-Divija/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [2032-largest-odd-number-in-string](https://github.com/R-L-Divija/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/R-L-Divija/Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2715-k-items-with-the-maximum-sum](https://github.com/R-L-Divija/Leetcode/tree/master/2715-k-items-with-the-maximum-sum) |
