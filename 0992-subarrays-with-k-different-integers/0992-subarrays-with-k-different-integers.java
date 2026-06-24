@@ -1,5 +1,5 @@
 class Solution {
-    public int count(int []a,int k){
+    public int func(int a[],int k){
         int l=0;
         int r=0;
         int c=0;
@@ -17,6 +17,6 @@ class Solution {
         return c;
     }
     public int subarraysWithKDistinct(int[] nums, int k) {
-        return count(nums,k)-count(nums,k-1);
+        return func(nums,k)-func(nums,k-1);
     }
 }
