@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/R-L-Divija/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/R-L-Divija/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0307-range-sum-query-mutable](https://github.com/R-L-Divija/Leetcode/tree/master/0307-range-sum-query-mutable) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/R-L-Divija/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Sorting
 |  |
 | ------- |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/R-L-Divija/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/R-L-Divija/Leetcode/tree/master/0148-sort-list) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/R-L-Divija/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## String
 |  |
 | ------- |
@@ -284,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3634-minimum-removals-to-balance-array](https://github.com/R-L-Divija/Leetcode/tree/master/3634-minimum-removals-to-balance-array) |
 | [3689-maximum-total-subarray-value-i](https://github.com/R-L-Divija/Leetcode/tree/master/3689-maximum-total-subarray-value-i) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/R-L-Divija/Leetcode/tree/master/3691-maximum-total-subarray-value-ii) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/R-L-Divija/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/R-L-Divija/Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3838-weighted-word-mapping](https://github.com/R-L-Divija/Leetcode/tree/master/3838-weighted-word-mapping) |
 ## Hash Table
@@ -332,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1813-maximum-erasure-value](https://github.com/R-L-Divija/Leetcode/tree/master/1813-maximum-erasure-value) |
 | [2679-count-distinct-numbers-on-board](https://github.com/R-L-Divija/Leetcode/tree/master/2679-count-distinct-numbers-on-board) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/R-L-Divija/Leetcode/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/R-L-Divija/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/R-L-Divija/Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Sliding Window
 |  |
@@ -583,6 +587,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/R-L-Divija/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/R-L-Divija/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/R-L-Divija/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/R-L-Divija/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## String Matching
 |  |
 | ------- |
@@ -640,6 +645,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3355-zero-array-transformation-i](https://github.com/R-L-Divija/Leetcode/tree/master/3355-zero-array-transformation-i) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/R-L-Divija/Leetcode/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/R-L-Divija/Leetcode/tree/master/3699-number-of-zigzag-arrays-i) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/R-L-Divija/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Enumeration
 |  |
 | ------- |
@@ -869,6 +875,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/R-L-Divija/Leetcode/tree/master/0307-range-sum-query-mutable) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/R-L-Divija/Leetcode/tree/master/3691-maximum-total-subarray-value-ii) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/R-L-Divija/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Database
 |  |
 | ------- |
