@@ -22,6 +22,6 @@ public class Solution {
                 t2=h1;
             }else t2=t2.next;
         }
-return t1;
+return t2;
     }
 }
