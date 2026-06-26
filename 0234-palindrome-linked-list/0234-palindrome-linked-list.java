@@ -9,39 +9,38 @@
  * }
  */
 class Solution {
-    public ListNode rev(ListNode head){
-        ListNode temp=head;
+    public ListNode rev(ListNode l){
         ListNode p=null;
-        while(temp!=null){
-ListNode q=temp.next;
-temp.next=p;
-p=temp;
-temp=q;
+        ListNode q=l;
+        while(q!=null){
+            ListNode t=q.next;
+            q.next=p;
+            p=q;
+            q=t;
         }
         return p;
+        
     }
-    public ListNode copy(ListNode head){
-        ListNode dummy = new ListNode(0);
-        ListNode cur = dummy;
-
-        while(head != null){
-            cur.next = new ListNode(head.val);
-            cur = cur.next;
-            head = head.next;
-        }
-        return dummy.next;
-    }
-
     public boolean isPalindrome(ListNode head) {
-        ListNode temp=head;
-        ListNode copy=copy(head);
-        ListNode h1=rev(copy);
-        while(h1!=null || temp!=null){
-      
-            if(h1.val!=temp.val)return false;
-            h1=h1.next;
-            temp=temp.next;
+        ListNode l=head;
+        ListNode r=head;
+        ListNode q=head;
+        while(r!=null &&r.next!=null){
+           l=l.next;
+           r=r.next.next;
         }
-        return true;
+        if(r!=null){
+            l=l.next;
+        }
+      
+       
+        ListNode p=rev(l);
+       
+        while(p!=null){
+            if(q.val!=p.val)return false;
+            p=p.next;
+            q=q.next;
+        }
+return true;
     }
 }
