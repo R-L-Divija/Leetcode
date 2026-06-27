@@ -287,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/R-L-Divija/Leetcode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2679-count-distinct-numbers-on-board](https://github.com/R-L-Divija/Leetcode/tree/master/2679-count-distinct-numbers-on-board) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/R-L-Divija/Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/R-L-Divija/Leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3246-check-if-bitwise-or-has-trailing-zeros](https://github.com/R-L-Divija/Leetcode/tree/master/3246-check-if-bitwise-or-has-trailing-zeros) |
 | [3321-type-of-triangle](https://github.com/R-L-Divija/Leetcode/tree/master/3321-type-of-triangle) |
 | [3355-zero-array-transformation-i](https://github.com/R-L-Divija/Leetcode/tree/master/3355-zero-array-transformation-i) |
@@ -346,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1786-count-the-number-of-consistent-strings](https://github.com/R-L-Divija/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1813-maximum-erasure-value](https://github.com/R-L-Divija/Leetcode/tree/master/1813-maximum-erasure-value) |
 | [2679-count-distinct-numbers-on-board](https://github.com/R-L-Divija/Leetcode/tree/master/2679-count-distinct-numbers-on-board) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/R-L-Divija/Leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/R-L-Divija/Leetcode/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/R-L-Divija/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/R-L-Divija/Leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -668,6 +670,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2083-three-divisors](https://github.com/R-L-Divija/Leetcode/tree/master/2083-three-divisors) |
 | [2507-number-of-common-factors](https://github.com/R-L-Divija/Leetcode/tree/master/2507-number-of-common-factors) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/R-L-Divija/Leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3827-count-monobit-integers](https://github.com/R-L-Divija/Leetcode/tree/master/3827-count-monobit-integers) |
 ## Memoization
 |  |
