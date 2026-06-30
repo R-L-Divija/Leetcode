@@ -2,8 +2,6 @@ class Solution {
     public int numberOfSubstrings(String s) {
         int l=0;
         int r=0;
-        int c=0;
-        int count=1;
         HashMap<Character,Integer>map=new HashMap<>();
         while(r<s.length()){
          char ch=s.charAt(r);
