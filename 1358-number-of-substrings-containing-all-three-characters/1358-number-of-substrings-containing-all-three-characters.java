@@ -1,19 +1,37 @@
 class Solution {
+
     public int numberOfSubstrings(String s) {
-        int l=0;
-        int r=0;
-        HashMap<Character,Integer>map=new HashMap<>();
-        while(r<s.length()){
-         char ch=s.charAt(r);
-         map.put(ch,map.getOrDefault(ch,0)+1);
-         while(map.containsKey('a')&&map.containsKey('b')&&map.containsKey('c')){
-            c+=s.length()-r;
-            map.put(s.charAt(l),map.get(s.charAt(l))-1);
-           if(map.get(s.charAt(l))==0){map.remove(s.charAt(l));}
-            l++;
-         }
-         r++;
+        int len = s.length();
+        int left = 0, right = 0;
+        // Track frequency of a, b, c
+        int[] freq = new int[3];
+        int total = 0;
+
+        while (right < len) {
+            // Add character at right pointer to frequency array
+            char curr = s.charAt(right);
+            freq[curr - 'a']++;
+
+            // While we have all required characters
+            while (hasAllChars(freq)) {
+                // All substrings from current window to end are valid
+                // Add count of these substrings to result
+                total += len - right;
+
+                // Remove leftmost character and move left pointer
+                char leftChar = s.charAt(left);
+                freq[leftChar - 'a']--;
+                left++;
+            }
+
+            right++;
         }
-        return c;
+
+        return total;
+    }
+
+    private boolean hasAllChars(int[] freq) {
+        // Check if we have at least one of each character
+        return freq[0] > 0 && freq[1] > 0 && freq[2] > 0;
     }
 }
