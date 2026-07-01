@@ -1,40 +1,28 @@
 class Solution {
+    public int solve(int i,int s,int tar,int a[],int dp[][]){
+        if(i==a.length){
+            return (s==tar)?1:0;
+        }
+        if(dp[i][s]!=-1)return dp[i][s];
+        int t=0;
+        if(s+a[i]<=tar){
+         t=solve(i+1,s+a[i],tar,a,dp);
+        }
+        int nt=solve(i+1,s,tar,a,dp);
+        return dp[i][s]=t+nt;
+    }
     public boolean canPartition(int[] arr) {
-        int sum=0;
-        int n=arr.length;
+        int s=0;
+        for(int x:arr){
+            s+=x;
+        }
+        if(s%2!=0)return false;
+        int t=s/2;
+        int dp[][]=new int[arr.length+1][t+1];
         for(int i=0;i<arr.length;i++){
-            sum+=arr[i];
+            Arrays.fill(dp[i],-1);
         }
-        if(sum%2!=0)return false;
-        int tar=sum/2;
-        boolean dp[][]=new boolean[arr.length][tar+1];
-      
-        //step 1 make col[0] =true;
-        for(int r=0;r<n;r++){
-            dp[r][0]=true;
-        }
-        //step 2 make last row => whose last sum present in array (true)
-        
-        
-            if(arr[n-1]<=tar){
-            dp[n-1][arr[n-1]]=true;
-            
-        }
-        //fill remaining row(n-2) and col(1)
-
-        for(int i=n-2;i>=0;i--){
-            for(int j=1;j<=tar;j++){
-                boolean s2=false;
-                //not take
-               boolean s1=dp[i+1][j];
-                // take
-                if(j-arr[i]>=0){
-                    s2=dp[i+1][j-arr[i]];
-                }
-                dp[i][j]=s1||s2;
-            }
-        }
-
-     return dp[0][tar];
+        int x=solve(0,0,t,arr,dp);
+        return x!=0?true:false;
     }
 }
