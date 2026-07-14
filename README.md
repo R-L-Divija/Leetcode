@@ -296,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/R-L-Divija/Leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3246-check-if-bitwise-or-has-trailing-zeros](https://github.com/R-L-Divija/Leetcode/tree/master/3246-check-if-bitwise-or-has-trailing-zeros) |
 | [3321-type-of-triangle](https://github.com/R-L-Divija/Leetcode/tree/master/3321-type-of-triangle) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/R-L-Divija/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3355-zero-array-transformation-i](https://github.com/R-L-Divija/Leetcode/tree/master/3355-zero-array-transformation-i) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/R-L-Divija/Leetcode/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/R-L-Divija/Leetcode/tree/master/3515-find-if-digit-game-can-be-won) |
@@ -447,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2857-total-distance-traveled](https://github.com/R-L-Divija/Leetcode/tree/master/2857-total-distance-traveled) |
 | [2955-account-balance-after-rounded-purchase](https://github.com/R-L-Divija/Leetcode/tree/master/2955-account-balance-after-rounded-purchase) |
 | [3321-type-of-triangle](https://github.com/R-L-Divija/Leetcode/tree/master/3321-type-of-triangle) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/R-L-Divija/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/R-L-Divija/Leetcode/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/R-L-Divija/Leetcode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/R-L-Divija/Leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
@@ -496,6 +498,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1143-longest-common-subsequence](https://github.com/R-L-Divija/Leetcode/tree/master/1143-longest-common-subsequence) |
 | [1236-n-th-tribonacci-number](https://github.com/R-L-Divija/Leetcode/tree/master/1236-n-th-tribonacci-number) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/R-L-Divija/Leetcode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/R-L-Divija/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/R-L-Divija/Leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3620-network-recovery-pathways](https://github.com/R-L-Divija/Leetcode/tree/master/3620-network-recovery-pathways) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/R-L-Divija/Leetcode/tree/master/3699-number-of-zigzag-arrays-i) |
@@ -658,6 +661,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2083-three-divisors](https://github.com/R-L-Divija/Leetcode/tree/master/2083-three-divisors) |
 | [2491-smallest-even-multiple](https://github.com/R-L-Divija/Leetcode/tree/master/2491-smallest-even-multiple) |
 | [2507-number-of-common-factors](https://github.com/R-L-Divija/Leetcode/tree/master/2507-number-of-common-factors) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/R-L-Divija/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/R-L-Divija/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Prefix Sum
 |  |
