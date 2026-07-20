@@ -261,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/R-L-Divija/Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/R-L-Divija/Leetcode/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/R-L-Divija/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
+| [1260-shift-2d-grid](https://github.com/R-L-Divija/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/R-L-Divija/Leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1331-rank-transform-of-an-array](https://github.com/R-L-Divija/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/R-L-Divija/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -564,6 +565,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/R-L-Divija/Leetcode/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/R-L-Divija/Leetcode/tree/master/0258-add-digits) |
 | [0735-asteroid-collision](https://github.com/R-L-Divija/Leetcode/tree/master/0735-asteroid-collision) |
+| [1260-shift-2d-grid](https://github.com/R-L-Divija/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/R-L-Divija/Leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1642-water-bottles](https://github.com/R-L-Divija/Leetcode/tree/master/1642-water-bottles) |
 | [1806-count-of-matches-in-tournament](https://github.com/R-L-Divija/Leetcode/tree/master/1806-count-of-matches-in-tournament) |
@@ -855,6 +857,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/R-L-Divija/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/R-L-Divija/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0931-minimum-falling-path-sum](https://github.com/R-L-Divija/Leetcode/tree/master/0931-minimum-falling-path-sum) |
+| [1260-shift-2d-grid](https://github.com/R-L-Divija/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/R-L-Divija/Leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/R-L-Divija/Leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/R-L-Divija/Leetcode/tree/master/1631-path-with-minimum-effort) |
