@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1910-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/R-L-Divija/Leetcode/tree/master/1910-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/R-L-Divija/Leetcode/tree/master/1920-determine-color-of-a-chessboard-square) |
 | [2032-largest-odd-number-in-string](https://github.com/R-L-Divija/Leetcode/tree/master/2032-largest-odd-number-in-string) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/R-L-Divija/Leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3612-process-string-with-special-operations-i](https://github.com/R-L-Divija/Leetcode/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/R-L-Divija/Leetcode/tree/master/3614-process-string-with-special-operations-ii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/R-L-Divija/Leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -302,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/R-L-Divija/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3355-zero-array-transformation-i](https://github.com/R-L-Divija/Leetcode/tree/master/3355-zero-array-transformation-i) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/R-L-Divija/Leetcode/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/R-L-Divija/Leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/R-L-Divija/Leetcode/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/R-L-Divija/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/R-L-Divija/Leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
@@ -616,6 +618,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/R-L-Divija/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/R-L-Divija/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/R-L-Divija/Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/R-L-Divija/Leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/R-L-Divija/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3620-network-recovery-pathways](https://github.com/R-L-Divija/Leetcode/tree/master/3620-network-recovery-pathways) |
 ## Counting
@@ -944,6 +947,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/R-L-Divija/Leetcode/tree/master/0307-range-sum-query-mutable) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/R-L-Divija/Leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/R-L-Divija/Leetcode/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/R-L-Divija/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/R-L-Divija/Leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
