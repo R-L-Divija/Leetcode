@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1910-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/R-L-Divija/Leetcode/tree/master/1910-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/R-L-Divija/Leetcode/tree/master/1920-determine-color-of-a-chessboard-square) |
 | [2032-largest-odd-number-in-string](https://github.com/R-L-Divija/Leetcode/tree/master/2032-largest-odd-number-in-string) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/R-L-Divija/Leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/R-L-Divija/Leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3612-process-string-with-special-operations-i](https://github.com/R-L-Divija/Leetcode/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/R-L-Divija/Leetcode/tree/master/3614-process-string-with-special-operations-ii) |
@@ -704,6 +705,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2083-three-divisors](https://github.com/R-L-Divija/Leetcode/tree/master/2083-three-divisors) |
 | [2507-number-of-common-factors](https://github.com/R-L-Divija/Leetcode/tree/master/2507-number-of-common-factors) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/R-L-Divija/Leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/R-L-Divija/Leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3827-count-monobit-integers](https://github.com/R-L-Divija/Leetcode/tree/master/3827-count-monobit-integers) |
 ## Memoization
 |  |
