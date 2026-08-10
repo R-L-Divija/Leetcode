@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/R-L-Divija/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0389-find-the-difference](https://github.com/R-L-Divija/Leetcode/tree/master/0389-find-the-difference) |
 | [0435-non-overlapping-intervals](https://github.com/R-L-Divija/Leetcode/tree/master/0435-non-overlapping-intervals) |
+| [0451-sort-characters-by-frequency](https://github.com/R-L-Divija/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/R-L-Divija/Leetcode/tree/master/0455-assign-cookies) |
 | [1331-rank-transform-of-an-array](https://github.com/R-L-Divija/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/R-L-Divija/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/R-L-Divija/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/R-L-Divija/Leetcode/tree/master/0389-find-the-difference) |
 | [0424-longest-repeating-character-replacement](https://github.com/R-L-Divija/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [0451-sort-characters-by-frequency](https://github.com/R-L-Divija/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0583-delete-operation-for-two-strings](https://github.com/R-L-Divija/Leetcode/tree/master/0583-delete-operation-for-two-strings) |
 | [0686-repeated-string-match](https://github.com/R-L-Divija/Leetcode/tree/master/0686-repeated-string-match) |
 | [0796-rotate-string](https://github.com/R-L-Divija/Leetcode/tree/master/0796-rotate-string) |
@@ -346,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/R-L-Divija/Leetcode/tree/master/0389-find-the-difference) |
 | [0424-longest-repeating-character-replacement](https://github.com/R-L-Divija/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/R-L-Divija/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0451-sort-characters-by-frequency](https://github.com/R-L-Divija/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0523-continuous-subarray-sum](https://github.com/R-L-Divija/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/R-L-Divija/Leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/R-L-Divija/Leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -630,6 +633,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/R-L-Divija/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/R-L-Divija/Leetcode/tree/master/0229-majority-element-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/R-L-Divija/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0451-sort-characters-by-frequency](https://github.com/R-L-Divija/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0992-subarrays-with-k-different-integers](https://github.com/R-L-Divija/Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1189-maximum-number-of-balloons](https://github.com/R-L-Divija/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1512-number-of-good-pairs](https://github.com/R-L-Divija/Leetcode/tree/master/1512-number-of-good-pairs) |
@@ -770,6 +774,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/R-L-Divija/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/R-L-Divija/Leetcode/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/R-L-Divija/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0451-sort-characters-by-frequency](https://github.com/R-L-Divija/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0743-network-delay-time](https://github.com/R-L-Divija/Leetcode/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/R-L-Divija/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1631-path-with-minimum-effort](https://github.com/R-L-Divija/Leetcode/tree/master/1631-path-with-minimum-effort) |
@@ -977,4 +982,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/R-L-Divija/Leetcode/tree/master/1021-remove-outermost-parentheses) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/R-L-Divija/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
