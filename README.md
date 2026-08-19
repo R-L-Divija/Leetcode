@@ -1008,9 +1008,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Algorithm X
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/R-L-Divija/Leetcode/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/R-L-Divija/Leetcode/tree/master/0051-n-queens) |
 ## Brute-Force Search
 |  |
 | ------- |
 | [0139-word-break](https://github.com/R-L-Divija/Leetcode/tree/master/0139-word-break) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/R-L-Divija/Leetcode/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
