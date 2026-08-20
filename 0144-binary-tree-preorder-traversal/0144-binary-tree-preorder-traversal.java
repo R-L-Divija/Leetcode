@@ -14,16 +14,17 @@
  * }
  */
 class Solution {
-    List<Integer>res;
+    List <Integer>ans;
     public void func(TreeNode root){
         if(root==null)return;
-        res.add(root.val);
+
+        ans.add(root.val);
         func(root.left);
         func(root.right);
     }
     public List<Integer> preorderTraversal(TreeNode root) {
-        res=new ArrayList<>();
+        ans=new ArrayList<>();
         func(root);
-        return res;
+        return ans;
     }
 }
