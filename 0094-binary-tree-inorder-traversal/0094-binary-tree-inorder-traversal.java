@@ -17,6 +17,7 @@ class Solution {
     List<Integer>ans;
     public void func(TreeNode root){
         if(root==null)return;
+
         func(root.left);
         ans.add(root.val);
         func(root.right);
