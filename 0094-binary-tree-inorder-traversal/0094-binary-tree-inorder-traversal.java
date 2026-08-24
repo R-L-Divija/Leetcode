@@ -20,7 +20,6 @@ class Solution {
         Stack<TreeNode>st=new Stack<>();
         TreeNode temp=root;
         while(temp!=null ||!st.isEmpty()){
-            
             while(temp!=null){
                st.push(temp);
                temp=temp.left;
@@ -29,6 +28,6 @@ class Solution {
             ans.add(t.val);
             temp=t.right;
         }
-return ans;
+        return ans;
     }
 }
