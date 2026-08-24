@@ -14,17 +14,21 @@
  * }
  */
 class Solution {
-    List<Integer>ans;
-    public void func(TreeNode root){
-        if(root==null)return;
-
-        func(root.left);
-        ans.add(root.val);
-        func(root.right);
-    }
     public List<Integer> inorderTraversal(TreeNode root) {
-        ans=new ArrayList<>();
-        func(root);
-        return ans;
+        List<Integer>ans=new ArrayList<>();
+         if(root==null)return ans;
+        Stack<TreeNode>st=new Stack<>();
+        TreeNode temp=root;
+        while(temp!=null ||!st.isEmpty()){
+            
+            while(temp!=null){
+               st.push(temp);
+               temp=temp.left;
+            }
+            TreeNode t=st.pop();
+            ans.add(t.val);
+            temp=t.right;
+        }
+return ans;
     }
 }
