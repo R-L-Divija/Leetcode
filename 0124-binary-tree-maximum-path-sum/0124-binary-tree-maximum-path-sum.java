@@ -15,19 +15,18 @@
  */
 class Solution {
     int s=Integer.MIN_VALUE;
-   
     public int func(TreeNode root){
-   if(root==null)return 0;
+        if(root==null)return 0;
 
-   int l=Math.max(0,func(root.left));
-   int r=Math.max(0,func(root.right));
-  int s1=root.val+l+r;
-   s=Math.max(s,s1);
-   return root.val+Math.max(l,r);
+        int l=Math.max(0,func(root.left));
+        int r=Math.max(0,func(root.right));
+        
+        s=Math.max(s,root.val+l+r);
+        return Math.max(l,r)+root.val;
     }
     public int maxPathSum(TreeNode root) {
         func(root);
-    
         return s;
+
     }
 }
