@@ -20,7 +20,7 @@ class Solution {
         int l=func(root.left);
         int r=func(root.right);
         m=Math.max(m,l+r);
-        return 1+Math.max(l,r);
+        return Math.max(l,r)+1;
     }
     public int diameterOfBinaryTree(TreeNode root) {
         func(root);
