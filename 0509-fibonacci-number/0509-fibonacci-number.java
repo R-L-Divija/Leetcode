@@ -10,21 +10,28 @@ class Solution {
 //  =>store ans return 
 
 
-    int func(int n,int dp[]){
-        //base
-        if(n<=1)return n;
-        //pruning case --
+    // int func(int n,int dp[]){
+    //     //base
+    //     if(n<=1)return n;
+    //     //pruning case --
 
-        //cache check
-       if(dp[n]!=-1)return dp[n];
-        //logic
-        return dp[n]=func(n-1,dp)+func(n-2,dp);
+    //     //cache check
+    //    if(dp[n]!=-1)return dp[n];
+    //     //logic
+    //     return dp[n]=func(n-1,dp)+func(n-2,dp);
+    // }
+
+
+
+
+
+    public int func(int n){
+        if(n<=1)return n;
+        return func(n-1)+func(n-2);
     }
     public int fib(int n) {
-
-     int dp[]=new int[n+1];
-     Arrays.fill(dp,-1);
-     return func(n,dp);
+       return func(n);
+     
 
     }
 }
