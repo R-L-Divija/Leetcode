@@ -14,17 +14,18 @@
  * }
  */
 class Solution {
-    int max=0;
+    public int max;
     public int func(TreeNode root){
         if(root==null)return 0;
 
-        int l=1+func(root.left);
-        int r=1+func(root.right);
-        max=Math.max(max,Math.max(l,r));
-        return Math.max(l,r);
+        int left=1+func(root.left);
+        int right=1+func(root.right);
+        max=Math.max(max,Math.max(left,right));
+        return Math.max(left,right);
     }
     public int maxDepth(TreeNode root) {
         if(root==null)return 0;
+        max=0;
         func(root);
         return max;
     }
