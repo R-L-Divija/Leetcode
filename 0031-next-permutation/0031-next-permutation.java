@@ -1,36 +1,30 @@
 class Solution {
-    public void rev(int a[],int l){
-        int r=a.length-1;
-        while(l<=r){
-            int t=a[r];
-            a[r]=a[l];
-            a[l]=t;
+    public void rev(int nums[],int l,int r){
+        while(l<r){
+            int t=nums[l];
+            nums[l]=nums[r];
+            nums[r]=t;
             l++;
             r--;
         }
     }
     public void nextPermutation(int[] nums) {
-        int pindx=-1;
-        int pv=0;
-        for(int i=nums.length-1;i>=1;i--){
-          if(nums[i-1]<nums[i]){
-            pindx=i-1;
-            pv=nums[i-1];break;
-          }
+        int i=nums.length-2;
+        //find first dec element from right
+        while(i>=0&&nums[i]>=nums[i+1]){
+            i--;
         }
-         if (pindx == -1) {
-            rev(nums, 0);
-            return;
+        if(i>=0){
+        //find greater element than i
+        int j=nums.length-1;
+        while(nums[j]<=nums[i])j--;
+
+        int t=nums[i];
+        nums[i]=nums[j];
+        nums[j]=t;
+
         }
-        for(int i=nums.length-1;i>=pindx+1;i--){
-            if(nums[i]>pv){
-                int temp=nums[i];
-                nums[i]=nums[pindx];
-                nums[pindx]=temp; 
-                break;
-            }
-           
-        }
-        rev(nums,pindx+1);
+        //revserse nxt element of i
+        rev(nums,i+1,nums.length-1);
     }
 }
