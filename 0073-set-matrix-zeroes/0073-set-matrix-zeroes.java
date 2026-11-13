@@ -1,27 +1,35 @@
 class Solution {
-    public void setZeroes(int[][] arr) {
-       int m=arr.length;
-       int n=arr[0].length;
+    public void setZeroes(int[][] mat) {
+        int n=mat.length;
+        int m=mat[0].length;
+    boolean r[]=new boolean[n];
+    boolean c[]=new boolean[m];
 
-     int c=1;
-       for(int i=0;i<m;i++){
-        if(arr[i][0]==0)c=0;
-        for(int j=1;j<n;j++){
-            if(arr[i][j]==0){
-                arr[i][0]=0;
-                arr[0][j]=0;
+    for(int i=0;i<n;i++){
+        for(int j=0;j<m;j++){
+            if(mat[i][j]==0){
+                r[i]=true;
+                c[j]=true;
             }
         }
-       }
-       for(int i=m-1;i>=0;i--){
-        for(int j=n-1;j>=1;j--){
-            if(arr[i][0]==0||arr[0][j]==0)arr[i][j]=0;
+    }
+    //set row of every col 0
 
+    for(int i=0;i<n;i++){
+        if(r[i]){
+            for(int j=0;j<m;j++){
+                mat[i][j]=0;
+            }
         }
-        if(c==0){
-            arr[i][0]=0;
-        }
-       }
+    }
+//set col of every row 0
 
+for(int j=0;j<m;j++){
+    if(c[j]){
+        for(int i=0;i<n;i++){
+            mat[i][j]=0;
+        }
+    }
+}
     }
 }
