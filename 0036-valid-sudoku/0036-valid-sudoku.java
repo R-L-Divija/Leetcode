@@ -1,42 +1,39 @@
 class Solution {
-    public boolean func(int r,int c,char[][] b){
-        //check rows ooda columns;
+    public boolean func(int r,int c,char b[][]){
+        //rows ooda colunm
         for(int i=0;i<9;i++){
             if(i==c)continue;
             if(b[r][i]==b[r][c])return false;
-     
-    }
-    //check columns ooda rows
-         for(int i=0;i<9;i++){
+        }
+        //col ooda row
+        for(int i=0;i<9;i++){
             if(i==r)continue;
             if(b[i][c]==b[r][c])return false;
         }
-        //box check;
-        int fr=(r/3)*3;
-        int fc=(c/3)*3;
+        //box check
+        int nr=(r/3)*3;
+        int nc=(c/3)*3;
         for(int i=0;i<3;i++){
             for(int j=0;j<3;j++){
-                int nr=fr+i,nc=fc+j;
-                if(nr==r &&nc==c)continue;
-                else{
-                    if(b[nr][nc]==b[r][c])return false;
+                int fr=nr+i;
+                int fc=nc+j;
+
+                if(fr==r &&fc==c)continue;
+                if(b[fr][fc]==b[r][c])return false;
+            }
+        }
+        return true;
+    }
+    public boolean isValidSudoku(char[][] b) {
+    
+        for(int i=0;i<9;i++){
+            for(int j=0;j<9;j++){
+                if(b[i][j]=='.')continue;
+                else {
+                    if(func(i,j,b)==false)return false;
                 }
             }
         }
         return true;
-}
-    
-    public boolean isValidSudoku(char[][] board) {
-  boolean ans=true;;
-       for(int i=0;i<9;i++){
-        for(int j=0;j<9;j++){
-        if(board[i][j]=='.')continue;
-        else{
-            if(func(i,j,board)==false)return false;
-            
-        }
-        }
-       }
-       return true;
     }
 }
