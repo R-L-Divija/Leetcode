@@ -1,9 +1,9 @@
 class Solution {
     public int maxProduct(int[] nums) {
-        int c=1;
         int max=Integer.MIN_VALUE;
+        int c=1;
         for(int x:nums){
-            c=c*x;
+            c*=x;
             max=Math.max(max,c);
             if(x==0)c=1;
         }
