@@ -1,24 +1,26 @@
 class Solution {
-    public int func(String s,int l,int r){
-        while(l>=0&&r<s.length() &&s.charAt(l)==s.charAt(r)){
+    public int func(String s, int l,int r){
+        while(l>=0 && r<s.length() && s.charAt(l)==s.charAt(r)){
             l--;
             r++;
         }
         return r-l-1;
     }
     public String longestPalindrome(String s) {
-        int s1=0;
+        int st=0;
         int e=0;
-        int max=0;
+       int m=Integer.MIN_VALUE;
+        if(s.length()==1)return s;
         for(int i=0;i<s.length();i++){
-            int l1=func(s,i,i);
-            int l2=func(s,i,i+1);
-            max=Math.max(l1,l2);
-            if(max>e-s1+1){
-                s1=i-(max-1)/2;
-                e=i+max/2;
+            int ol=func(s,i,i);
+            int el=func(s,i,i+1);
+            m=Math.max(ol,el);
+
+            if(m>e-st+1){
+                st=i-(m-1)/2;
+                e=i+m/2;
             }
         }
-        return s.substring(s1,e+1);
+        return s.substring(st,e+1);
     }
 }
