@@ -236,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/R-L-Divija/Leetcode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/R-L-Divija/Leetcode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/R-L-Divija/Leetcode/tree/master/0200-number-of-islands) |
+| [0204-count-primes](https://github.com/R-L-Divija/Leetcode/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/R-L-Divija/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/R-L-Divija/Leetcode/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/R-L-Divija/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -429,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0172-factorial-trailing-zeroes](https://github.com/R-L-Divija/Leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/R-L-Divija/Leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/R-L-Divija/Leetcode/tree/master/0202-happy-number) |
+| [0204-count-primes](https://github.com/R-L-Divija/Leetcode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/R-L-Divija/Leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/R-L-Divija/Leetcode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/R-L-Divija/Leetcode/tree/master/0263-ugly-number) |
@@ -707,6 +709,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/R-L-Divija/Leetcode/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/R-L-Divija/Leetcode/tree/master/0258-add-digits) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/R-L-Divija/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2083-three-divisors](https://github.com/R-L-Divija/Leetcode/tree/master/2083-three-divisors) |
@@ -741,6 +744,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/R-L-Divija/Leetcode/tree/master/0204-count-primes) |
 | [1291-sequential-digits](https://github.com/R-L-Divija/Leetcode/tree/master/1291-sequential-digits) |
 | [2083-three-divisors](https://github.com/R-L-Divija/Leetcode/tree/master/2083-three-divisors) |
 | [2507-number-of-common-factors](https://github.com/R-L-Divija/Leetcode/tree/master/2507-number-of-common-factors) |
@@ -1100,4 +1104,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/R-L-Divija/Leetcode/tree/master/0287-find-the-duplicate-number) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/R-L-Divija/Leetcode/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/R-L-Divija/Leetcode/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/R-L-Divija/Leetcode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
